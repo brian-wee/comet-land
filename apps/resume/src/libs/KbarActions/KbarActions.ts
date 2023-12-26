@@ -13,7 +13,7 @@ function generateKbarAction() {
 
   unshiftWhenValid(blogUrl, {
     id: 'blog',
-    name: 'Blog',
+    name: 'Telegram',
     subtitle: blogUrl,
     section: 'Social',
     shortcut: [],

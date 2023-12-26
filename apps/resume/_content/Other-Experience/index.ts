@@ -16,6 +16,8 @@ export interface Experience {
 export interface OtherExperience {
   title: string;
   list: Experience[];
+  title2: string;
+  list2: Experience[];
 }
 
 export { data };

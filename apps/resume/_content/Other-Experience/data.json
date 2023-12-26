@@ -1,53 +1,136 @@
 {
-  "title": "Other Experience",
+  "title": "Education",
   "list": [
     {
       "title": {
-        "text": "Foo University",
+        "text": "Singapore Institute of Technology (SIT)",
         "githubLink": null,
         "otherLink": null
       },
       "position": "Student",
-      "startDate": "2018.03",
-      "endDate": "2021.03",
-      "description": "Graduated software develop major",
-      "which": []
+      "startDate": "2021",
+      "endDate": "2027",
+      "description": "Matriculated as a full-time student in 2024.<br/>Previously took specialised modules under the CyberNSF scheme, Sept 2021-Jan 2024:",
+      "which": [
+        "ICT1001 Introduction to ICT",
+        "ICT1002 Programming Fundamentals",
+        "ICT1003 Computer Organisation and Architecture",
+        "ICT1004 Web Systems and Technologies",
+        "ICT1005 Mathematics and Statistics for ICT",
+        "ICT1010 Computer Networks",
+        "ICT1012 Operating Systems",
+        "ICT2203 Network Security",
+        "ICT2204 Ethical Hacking",
+        "ICT3202 Malware Analysis and Defence",
+        "ICT3204 Security Analytics"
+      ]
     },
     {
       "title": {
-        "text": "Bar Club",
+        "text": "Anderson Serangoon Junior College",
         "githubLink": null,
-        "otherLink": null
+        "otherLink": "https://cdn.brian-wee.com/pdf/ASR_CCA_CERT_2020_REDACTED.pdf"
       },
-      "position": "FE developer course",
-      "startDate": "2018.03",
-      "endDate": "2018.12",
-      "description": "Learning FE development",
-      "which": ["learning HTML/CSS", "learning SPA Framework"]
+      "position": "A-Levels",
+      "startDate": "2019",
+      "endDate": "2020",
+      "description": "Was the president of STEM Inc (formerly Project Eureka / Science Society)",
+      "which": [
+        "Conducted training in various workshops including 3D Printing and Robotics, in outreach events including secondary school student visits",
+        "Received the Outstanding Contribution Award for contributions to the school",
+        "Received the Edusave Award for Achievement, Good Leadership and Service (EAGLES)",
+        "Nanyang Research Programme (Gold) - NTU EEE Research Project on Wireless Charging",
+        "Bits & Bolts 2019 (Honourable Mention) – NUS Computing",
+        "Was a Stage Manager in ASRJC CNY Concert 2020"
+      ]
     },
     {
       "title": {
-        "text": "Lovein Next.js Club",
+        "text": "Nan Chiau High School",
         "githubLink": null,
-        "otherLink": "https://nextjs.org/"
+        "otherLink": "https://cdn.brian-wee.com/pdf/NCHS_CCA_2018_REDACTED.pdf"
       },
-      "position": "Web Developer",
-      "startDate": "2020.03",
-      "endDate": "2021.03",
-      "description": "Love Next.js and NextUI",
-      "which": ["Comet-land build with Next.js and NextUI"]
+      "position": "O-Levels",
+      "startDate": "2015",
+      "endDate": "2018",
+      "description": "Documentation head, Robotics Club",
+      "which": [
+        "Managed the day to day running of CCA and planned for major activities and CCA sessions",
+        "National Youth Achievement Award (Silver)",
+        "Singapore Junior Physics Olympiad (Bronze)",
+        "Singapore Junior Chemistry Olympiad (Bronze)",
+        "Singapore Math Olympiad (Honourable Mention)"
+      ]
+    }
+  ],
+  "title2": "Volunteering Experience",
+  "list2": [
+    {
+      "title": {
+        "text": "Global Cybersecurity Camp",
+        "githubLink": null,
+        "otherLink": "https://gcc.ac/"
+      },
+      "position": "Volunteer",
+      "startDate": "2023",
+      "endDate": "2023",
+      "description": null,
+      "which": [
+        "Was a volunteer for GCC 2023 (13-17 Feb 2023)"
+      ]
     },
     {
       "title": {
-        "text": "Turbo Developers",
+        "text": "Anderson Serangoon Junior College Alumni Association",
         "githubLink": null,
-        "otherLink": "https://turborepo.org/"
+        "otherLink": "https://asraa.org/"
       },
-      "position": "Web Developer",
-      "startDate": "2020.03",
-      "endDate": "2021.03",
-      "description": "Comet-land build with turborepo",
-      "which": ["Turborepo is awesome", "It's super fast"]
+      "position": "Secretary",
+      "startDate": "2022",
+      "endDate": "Present",
+      "description": null,
+      "which": [
+        "Managing volunteer affairs",
+        "Setting the direction of the association as it is still quite new"
+      ]
+    },
+    {
+      "title": {
+        "text": "Chong Hua Tong Tou Teck Hwee",
+        "githubLink": null,
+        "otherLink": "https://www.chonghuatong.org.sg/"
+      },
+      "position": "Volunteer",
+      "startDate": "2019",
+      "endDate": "Present",
+      "description": "Technical Lead and Subject Matter Expert in the A/V operations team",
+      "which": [
+        "Tutor/Mentor to teenagers (Aged 13-16) in the youth group",
+        "Organized and facilitated various youth group events ",
+        "Network administration across multiple sites",
+        "Systems administration of computer systems at various sites",
+        "Systems integration of various A/V systems from different vendors ",
+        "Coordinated the set-up, deployment and integration of A/V equipment in large-scale events across multiple sites",
+        "Web Development of internal systems"
+      ]
+    },
+    {
+      "title": {
+        "text": "Rivervale Primary School Alumni Association",
+        "githubLink": null,
+        "otherLink": "https://riv-alumni.com/"
+      },
+      "position": "Executive Committee Member",
+      "startDate": "2015",
+      "endDate": "Present",
+      "description": "Deputy Lead, Admin Team<br/>Deputy Lead & Head of Security, DevOps Team",
+      "which": [
+        "Managing volunteer affairs",
+        "Cyber Audit of the association and internally developed systems",
+        "Ensuring events and programs are planned and executed well",
+        "Setting the direction of the association",
+        "Providing guidance to junior members"
+      ]
     }
   ]
 }

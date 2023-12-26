@@ -2,92 +2,200 @@
   "title": "Work Experience",
   "list": [
     {
-      "name": "Foo company",
-      "position": "Web Developer",
-      "startDate": "2021.03",
-      "endDate": "",
-      "description": "Foo company is social media company for every world",
+      "name": "Financial Services Information Sharing and Analysis Center (FS-ISAC)",
+      "position": "Cyber Security Intern",
+      "startDate": "2024.04",
+      "endDate": "2024.08",
+      "description": "Global Intelligence Office (GIO)",
       "projects": [
         {
           "title": {
-            "text": "Foo Pay",
+            "text": "Cyber Security Intern",
             "githubLink": null,
             "otherLink": null
           },
-          "description": "Leading FE developers",
-          "startDate": "2022.01",
-          "endDate": "",
-          "which": ["leading fe developers", "foster SEO"],
-          "techStack": ["TypeScript", "React", "Recoil"]
-        },
-        {
-          "title": {
-            "text": "Comet land",
-            "githubLink": "https://github.com/hyesungoh/comet-land",
-            "otherLink": "https://comet-land-blog.vercel.app"
-          },
-          "description": "Monorepo for blog and resume",
-          "startDate": "2021.6",
-          "endDate": "2021.12",
-          "which": ["construct monorepo with turborepo", "design with NextUI"],
-          "techStack": ["TypeScript", "React", "Next.js", "Turborepo", "NextUI", "Emotion"]
-        },
-        {
-          "title": {
-            "text": "Foo Eat",
-            "githubLink": null,
-            "otherLink": null
-          },
-          "description": "Leading FE developers",
-          "startDate": "2021.03",
-          "endDate": "2021.06",
+          "role": "",
+          "description": "",
+          "startDate": "2024.04",
+          "endDate": "2024.08",
           "which": [
-            "develop comet-land",
-            "lorem lorem",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+            "Provided Cyber Threat Intelligence (CTI) and monitored for various cyber threats",
+            "Conducted multiple-source intelligence analysis on current and emerging threats",
+            "Provided tactical/technical intelligence to FS-ISAC members on threats to the financial sector",
+            "Conducted malware analysis and wrote a Technical Analysis Report (TAR)",
+            "Built capabilities to automate tracking and alerting of various hacktivist groups’ activities and claims on social media platforms"
           ],
-          "techStack": null
+          "techStack": [
+            "CTI",
+            "Cyber Threat Intelligence",
+            "Malware Analysis"
+
+          ]
         }
       ]
     },
     {
-      "name": "Bar company",
-      "position": "Web Developer",
-      "startDate": "2020.03",
-      "endDate": "2021.03",
-      "description": "Bar company is very awesome",
+      "name": "Cyber Security Agency of Singapore",
+      "position": "Cyber Specialist",
+      "startDate": "2022.02",
+      "endDate": "2024.04",
+      "description": "National Cyber Threat Monitoring Centre",
       "projects": [
         {
           "title": {
-            "text": "Bar Pay",
+            "text": "Analyst, NCTMC",
             "githubLink": null,
             "otherLink": null
           },
-          "role": "FE Dev Leader",
-          "description": "Leading FE developers",
-          "startDate": "2020.08",
-          "endDate": "2021.03",
+          "description": "On attachment from SAF/DIS",
+          "startDate": "2022.02",
+          "endDate": "2024.04",
           "which": [
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-            "Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+            "Provide Cyber Threat Intelligence (CTI) and monitor for various cyber threats",
+            "Work with stakeholders to ensure threat visibility and disseminate intelligence",
+            "Spearheaded efforts to improve, automate and streamline processes in NCTMC",
+            "Researched and wrote on Cloud APIs for CSA's CyberSense monthly bulletin",
+            "Participated in Exercise Cyber Star 2023"
           ],
-          "techStack": ["TypeScript", "React", "Recoil"]
+          "techStack": [
+            "CTI",
+            "Cyber Threat Intelligence",
+            "Cyber Threat Hunting",
+            "SOC",
+            "Security Operations Centre"
+          ]
         },
         {
           "title": {
-            "text": "Bar Play",
+            "text": "Cyber Specialist Operations IC, NCTMC",
             "githubLink": null,
             "otherLink": null
           },
-          "role": "FE Dev Leader",
-          "description": "Leading FE developers",
-          "startDate": "2020.03",
-          "endDate": "2020.08",
+          "description": "",
+          "startDate": "2023",
+          "endDate": "2024",
           "which": [
-            "perspiciatis modi dolores libero tenetur nam.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing."
+            "Oversee duty processes done by cyber specialists in NCTMC",
+            "Ensure cyber specialists' operational readiness",
+            "Operational planning for events of national importance"
           ],
-          "techStack": ["TypeScript", "React", "Recoil"]
+          "techStack": [
+            "Operational Planning"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Digital and Intelligence Service",
+      "position": "Cyber Specialist",
+      "startDate": "2021.04",
+      "endDate": "2024.04",
+      "description": "SAF C4 Command",
+      "projects": [
+        {
+          "title": {
+            "text": "Cyber Specialist, Cyber Defence Group",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "role": "",
+          "description": "Recipient of the Cyber Specialist Award under the Cyber NSF Scheme",
+          "startDate": "2021.04",
+          "endDate": "2024.04",
+          "which": [
+            "Trained in Digital Forensics and Incident Response and Security Operations Centre processes, with exposure to 4G/5G and OT/ICS",
+            "Wrote a bot to automate routine administrative functions of the company",
+            "Participated in cyber exercises as a member of a Cyber Incident Response Team (CIRT)",
+            "Posted to a Cyber Audit / Incident Response unit in SAF C4 Command, Cyber Defence Group",
+            "Attached to CSA in NCTMC"
+          ],
+          "techStack": [
+            "DF/IR",
+            "SOC",
+            "Network",
+            "Security Operations Centre",
+            "5G",
+            "OT/ICS"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SWiZ Technologies Pte Ltd",
+      "position": "IT Engineer",
+      "startDate": "2020.12",
+      "endDate": "2021.04",
+      "description": "L1 Helpdesk<br/>L2 Helpdesk<br/>Network and Systems Administration",
+      "projects": [
+        {
+          "title": {
+            "text": "IT Engineer",
+            "githubLink": null,
+            "otherLink": "https://cdn.brian-wee.com/pdf/SWiZ-Recommendation.pdf"
+          },
+          "role": "",
+          "description": "",
+          "startDate": "2020.12",
+          "endDate": "2021.04",
+          "which": [
+            "Onboarded, integrated and maintained IT infrastructure on-premise and on cloud",
+            "Set up endpoint security protection with various security vendors’ products",
+            "Set up Data protection, backup and disaster recovery with various solutions",
+            "Provided technical support to enterprise customers"
+          ],
+          "techStack": [
+            "EDR",
+            "BDR",
+            "Support",
+            "Network",
+            "Power BI",
+            "Power Automate",
+            "M365"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Challenger Technologies Ltd",
+      "position": "Senior Retail Associate - Sales",
+      "startDate": "2018.11",
+      "endDate": "2021.04",
+      "description": "Casual Part-Time",
+      "projects": [
+        {
+          "title": {
+            "text": "Senior Retail Associate",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "role": "",
+          "description": "",
+          "startDate": "2018.11",
+          "endDate": "2021.04",
+          "which": [
+            "Retail salesperson specializing in high-value products including computers, phones, monitor screens and printers",
+            "Gained experience in cashiering and inventory management systems"
+          ],
+          "techStack": [
+            "Sales",
+            "Support",
+            "Retail"
+          ]
+        },
+        {
+          "title": {
+            "text": "Retail Associate",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "role": "",
+          "description": "Shortlisted to be a salesperson during retail training",
+          "startDate": "2018.11",
+          "endDate": "2018.11",
+          "which": [],
+          "techStack": [
+            "Retail"
+          ]
         }
       ]
     }

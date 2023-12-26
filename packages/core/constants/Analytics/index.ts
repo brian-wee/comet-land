@@ -1,7 +1,7 @@
-export const blogGAID = 'G-81ZKZV9P2F';
+export const blogGAID = '';
 
-export const resumeGAID = 'G-GGTHSEBFXV';
+export const resumeGAID = 'G-4N5JQRQDCR';
 
-export const blogHotjarID = '2886536';
+export const blogHotjarID = '';
 
-export const resumeHotjarID = '2899609';
+export const resumeHotjarID = '';

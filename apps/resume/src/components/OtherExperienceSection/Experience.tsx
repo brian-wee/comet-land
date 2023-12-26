@@ -15,7 +15,7 @@ function Experience({ title, position, startDate, endDate, description, which }:
         {startDate} ~ {endDate}
       </small>
       <span>{position}</span>
-      <p>{description}</p>
+      <p dangerouslySetInnerHTML={{ __html: description }}></p>
       {which.length > 0 && (
         <ul>
           {which.map((each, index) => (

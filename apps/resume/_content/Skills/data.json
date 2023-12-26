@@ -2,44 +2,33 @@
   "title": "Skills",
   "list": [
     {
-      "name": "Soft skill",
-      "descriptions": ["I like to talk"]
-    },
-    {
-      "name": "HTML/CSS",
+      "name": "Cyber Security",
       "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur quibusdam harum, nihil quidem ducimus explicabo soluta odio."
+        "Exposure to OT/ICS and 5G",
+        "Experience with CTI, SOC and DF/IR processes"
       ]
     },
     {
-      "name": "JavaScript",
+      "name": "Networking",
       "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        "Designed and implemented networks across multiple sites",
+        "Experience with networking products from industry vendors including Fortinet, Cisco and Ubiquiti"
       ]
     },
     {
-      "name": "TypeScript",
+      "name": "Programming",
       "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur quibusdam harum, nihil quidem ducimus explicabo soluta odio ut voluptatem praesentium."
+        "Proficient in Python and Arduino, familiar with C",
+        "Proficient in scripting including Powershell, cmd and bash scripts",
+        "Proficient in web technologies including PHP, HTML/CSS/JS and Next.js",
+        "Wrote telegram bots in Google AppScript and Python"
       ]
     },
     {
-      "name": "Dev Ops",
+      "name": "Systems/Servers Administration",
       "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
-      ]
-    },
-    {
-      "name": "ETC",
-      "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        "Administered corporate networks of >100 systems with Active Directory",
+        "Provisioned, deployed and maintained servers for DNS, Web, VPN and other services"
       ]
     }
   ]
